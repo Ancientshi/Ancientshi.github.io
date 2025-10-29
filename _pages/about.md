@@ -95,7 +95,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/InstructAgent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) <br> Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
 </div></div>
