@@ -91,9 +91,10 @@
     width: 100%;
     height: auto;
     object-fit: cover;
-    object-position: 50% 0%; // 关键：水平居中，竖直对齐顶部（优先显示上方）
+    object-position: 50% -8%; // 关键：水平居中，竖直对齐顶部（优先显示上方）
   
     @include breakpoint($large) {
+      padding: 5px;
       border: 1px solid $border-color;
     }
   }
