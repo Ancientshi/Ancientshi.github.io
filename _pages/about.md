@@ -73,7 +73,7 @@ I am actively exploring research problems and potential collaborations in Person
 
 ## 💡 LLM for Recommendation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div></div></div>
+<div class='paper-box'><div class="badge">ICLR 2025</div></div>
 <div class='paper-box-text' markdown="1">
 - *Distilling Large Language Models into Small for Sequential Recommendation* [[Preview]](https://openreview.net/forum?id=G4wARwjF8M) <br>
 Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, Wenfang Lin, Yongfeng Zhang
