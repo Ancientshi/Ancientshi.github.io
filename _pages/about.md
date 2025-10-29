@@ -32,6 +32,7 @@ I am actively exploring research problems and potential collaborations in Person
 - *2022.07 – Present*, University of Technology Sydney, PhD Candidate in Information System
 - *2021.09 – 2022.05*, University of New South Wales, Coursework Master of Information Technology (*Withdrew for Research*)
 
+<span class='anchor' id='Academic_Publications'></span>
 
 # 🧾 Academic Publications
 
@@ -132,7 +133,7 @@ Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Th
 - Vice-Chancellor's Postgraduate Research Student Conference Fund, *2024*
 - UTS School of Electrical and Data Engineering Research Support Fund, *2024*
 
-<span class='anchor' id='-Teaching Experience'></span>
+<span class='anchor' id='-Teaching_Experience'></span>
 
 # 🎓 Teaching Experience
 
