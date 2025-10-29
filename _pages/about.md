@@ -58,7 +58,7 @@ I am actively exploring research problems and potential collaborations in Person
 **Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM-MMGR 2024</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM-MMGR 2024</div><img src='https://arxiv.org/html/2409.00636v1/x1.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine* [[Preview]](https://dl.acm.org/doi/10.1145/3689091.3690087) <br>
 **Yunxiao Shi**, Min Xu, Haimin Zhang, Xing Zi, Qiang Xu
@@ -111,13 +111,13 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 ## 🛰️ Remote Sensing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='https://arxiv.org/html/2508.07918v1/Figure/RSVLM-QA_Pipeline.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering* [[Preview]](https://arxiv.org/abs/2508.07918) <br>
 Xing Zi, Jinghao Xiao, **Yunxiao Shi**, Xian Tao, Jun Li, Ali Braytee, Mukesh Prasad
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA 2024</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA 2024</div><img src='https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-96-0811-9_7/MediaObjects/628584_1_En_7_Fig4_HTML.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *BDC Dataset: A Comprehensive Dataset for Automated Build Damage Classification* [[Preview]](https://openreview.net/forum?id=fr8Atucyym) <br>
 Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Thiyagarajan, Mukesh Prasad
