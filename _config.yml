@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yunxiao Shi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.jpg"
   bio              : "PhD Candidate at University of Technology Sydney. My research interests include Recommender System, Agent, RAG."
   location         : "Australia Sydney"
   employer         : 

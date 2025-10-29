@@ -111,7 +111,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 - *PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence* [[Preview]](https://aclanthology.org/2025.findings-acl.300/) <br>
 **Yunxiao Shi**, Wujiang Xu, Zeqi Zhang, Xing Zi, Qiang Xu, Min Xu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='https://arxiv.org/html/2502.14662v1/x2.png' width="100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/InstructAgent.svg' width="100%'></div></div>
 <div class='paper-box-text' markdown="1">
 
 - *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) <br> Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
