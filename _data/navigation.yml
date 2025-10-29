@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
+  - title: "Aboutme"
+    url: "/https://ancientshi.github.io"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
+  - title: "Education"
+    url: "/https://ancientshi.github.io/#-Education"
 
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+  - title: "Academic Publications"
+    url: "/https://ancientshi.github.io/#-Academic Publications"
 
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+  - title: "Scholarship"
+    url: "/https://ancientshi.github.io/#-Scholarship"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
-
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+  - title: "Teaching Experience"
+    url: "/https://ancientshi.github.io/#-Teaching Experience"
