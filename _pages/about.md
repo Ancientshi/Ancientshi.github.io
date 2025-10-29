@@ -32,7 +32,7 @@ I am actively exploring research problems and potential collaborations in Person
 - *2022.07 – Present*, University of Technology Sydney, PhD Candidate in Information System
 - *2021.09 – 2022.05*, University of New South Wales, Coursework Master of Information Technology (*Withdrew for Research*)
 
-<span class='anchor' id='Academic_Publications'></span>
+<span class='anchor' id='-Academic_Publications'></span>
 
 # 🧾 Academic Publications
 
