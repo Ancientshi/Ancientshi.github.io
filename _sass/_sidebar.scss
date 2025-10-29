@@ -79,16 +79,12 @@
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  /* 移动端保持窄一些 */
+  width: 120px;
 
   @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+    /* 桌面端放大，让高度也跟着变大 */
+    width: 220px;         // 你也可试 240/260
   }
 
   // img {
@@ -103,13 +99,15 @@
   // }
   
   img {
-    border-radius: 0 !important;
-    aspect-ratio: 1 / 1;
-    width: 100%;
-    max-width: 175px;
-    min-width: 75px;
-    height: auto;
-    object-fit: cover;
+    border-radius: 0 !important;  // 方角
+    aspect-ratio: 3 / 4;          // 竖向比例（更“长”）
+    width: 100%;                   // 跟随容器宽度
+    height: auto;                  // 由 aspect-ratio 推出高度
+    object-fit: cover;             // 填满并居中裁切
+    /* 下面两行可保留你的白色描边样式 */
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
   }
 }
 
