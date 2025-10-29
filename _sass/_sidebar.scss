@@ -94,7 +94,6 @@
     object-position: 50% 0%; // 关键：水平居中，竖直对齐顶部（优先显示上方）
   
     @include breakpoint($large) {
-      padding: 5px;
       border: 1px solid $border-color;
     }
   }
