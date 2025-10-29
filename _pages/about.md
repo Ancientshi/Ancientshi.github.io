@@ -37,13 +37,13 @@ I am actively exploring research problems and potential collaborations in Person
 
 ## 📊 Data Attribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ACC-SGD-IE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]]() <br>
 **Yunxiao Shi**, Shuo Yang, Yixin Su, Rui Zhang, Min Xu
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMKD Journal</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMKD Journal</div><img src='images/MEGG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *MEGG: Replay via Maximally Extreme GG-score in Incremental Learning for Deep Recommendation Models* [[Preview]](https://arxiv.org/abs/2509.07319) <br>
 **Yunxiao Shi**, Shuo Yang, Haimin Zhang, Li Wang, Yongze Wang, Qiang Wu, Min Xu
@@ -52,7 +52,7 @@ I am actively exploring research problems and potential collaborations in Person
 
 ## 📚 RAG, Information Retrieval and Question Answering
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/OCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]]() <br>
 **Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
@@ -64,7 +64,7 @@ I am actively exploring research problems and potential collaborations in Person
 **Yunxiao Shi**, Min Xu, Haimin Zhang, Xing Zi, Qiang Xu
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems* [[Preview]](https://ebooks.iospress.nl/doi/10.3233/FAIA240748) <br>
 **Yunxiao Shi**, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Xu, Min Xu 
@@ -82,13 +82,13 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 ## 🤖 Agent and Recommendation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *AgentMatch: A Benchmark for Query-to-Agent Recommendation* [[Preview]]() <br>
 **Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Yunfeng Wan, Zhuo Cao, Dimitris N. Metaxas, Min Xu
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/PersonaX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence* [[Preview]](https://aclanthology.org/2025.findings-acl.300/) <br>
 **Yunxiao Shi**, Wujiang Xu, Zeqi Zhang, Xing Zi, Qiang Xu, Min Xu
@@ -102,7 +102,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 ## 📈 Traditional Recommender System
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/KarSein.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) <br>
 **Yunxiao Shi**, Wujiang Xu, Haimin Zhang, Qiang Wu, Min Xu

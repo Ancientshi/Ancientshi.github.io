@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "石韵虓(xiao)"
-description              : "主页"
+title                    : "Yunxiao Shi"
+description              : "Homepage"
 repository               : "Ancientshi/Ancientshi.github.io"
 google_scholar_stats_use_cdn : false
 
