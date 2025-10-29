@@ -91,15 +91,25 @@
     height: auto;
   }
 
+  // img {
+  //   max-width: 175px;
+  //   min-width: 75px;
+  //   border-radius: 50%;
+
+  //   @include breakpoint($large) {
+  //     padding: 5px;
+  //     border: 1px solid $border-color;
+  //   }
+  // }
+  
   img {
+    border-radius: 0 !important;
+    aspect-ratio: 1 / 1;
+    width: 100%;
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    height: auto;
+    object-fit: cover;
   }
 }
 
