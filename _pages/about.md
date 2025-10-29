@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='About Me'></span>
 
 I’m Yunxiao Shi (石韵虓xiāo), born in 1998 in Wuhan, China, and currently a fourth-year PhD candidate at the **University of Technology Sydney**, supervised by **Prof. Min Xu** and co-supervised by **Prof. Qiang Wu**. I am expected to graduate before July 2, 2026. I have published in leading venues such as ECAI, ACL, EMNLP, ICLR, ACM Multimedia, and ADMA, as well as journals including DMKD, TOIS, and Neurocomputing. I also serve as a regular reviewer for journals such as IEEE TKDE, IEEE TMM, Neural Networks, and Frontiers in AI. In addition, I am the Co-Founder of **[Achieva AI](https://www.achieva-ai.com)**, the first AI agent for international student education consulting in Australia. <a href='https://scholar.google.com/citations?user=yQZTu58AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
@@ -25,7 +25,7 @@ I am actively exploring research problems and potential collaborations in Person
 
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-Education'></span>
 
 # 🎓 Education
 - *2022.07 – Present*, </a> University of Technology Sydney, PhD Candidate in Information System
@@ -112,7 +112,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/InstructAgent.png' width="100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 - *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) <br> Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
 </div></div>
@@ -121,10 +121,8 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) <br>
 **Yunxiao Shi**, Wujiang Xu, Haimin Zhang, Qiang Wu, Min Xu
-
 </div></div>
 
 
@@ -132,23 +130,17 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering* [[Preview]](https://arxiv.org/abs/2508.07918) <br>
 Xing Zi, Jinghao Xiao, **Yunxiao Shi**, Xian Tao, Jun Li, Ali Braytee, Mukesh Prasad
-
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *BDC Dataset: A Comprehensive Dataset for Automated Build Damage Classification* [[Preview]](https://openreview.net/forum?id=fr8Atucyym) <br>
 Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Thiyagarajan, Mukesh Prasad
-
-
 </div></div>
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-Scholarship'></span>
 
 # 🏅 Scholarship
 
@@ -156,7 +148,7 @@ Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Th
 - Vice-Chancellor's Postgraduate Research Student Conference Fund, *2024*
 - UTS School of Electrical and Data Engineering Research Support Fund, *2024*
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-Teaching Experience'></span>
 
 
 

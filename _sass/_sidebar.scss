@@ -79,37 +79,26 @@
 }
 
 .author__avatar {
-  /* 移动端保持窄一些 */
   width: 120px;
 
   @include breakpoint($large) {
-    /* 桌面端放大，让高度也跟着变大 */
-    width: 220px;         // 你也可试 240/260
+    width: 220px;
   }
 
-  // img {
-  //   max-width: 175px;
-  //   min-width: 75px;
-  //   border-radius: 50%;
-
-  //   @include breakpoint($large) {
-  //     padding: 5px;
-  //     border: 1px solid $border-color;
-  //   }
-  // }
-  
   img {
-    border-radius: 0 !important;  // 方角
-    aspect-ratio: 3 / 4;          // 竖向比例（更“长”）
-    width: 100%;                   // 跟随容器宽度
-    height: auto;                  // 由 aspect-ratio 推出高度
-    object-fit: cover;             // 填满并居中裁切
-    /* 下面两行可保留你的白色描边样式 */
+    border-radius: 0 !important;
+    aspect-ratio: 3 / 4;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+    }
   }
 }
+
 
 .author__content {
   display: table-cell;
