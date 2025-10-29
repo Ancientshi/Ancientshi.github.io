@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='About Me'></span>
 
-I’m Yunxiao Shi (石韵虓xiāo), born in 1998 in Wuhan, China, and currently a fourth-year PhD candidate at the **University of Technology Sydney**, supervised by **Prof. Min Xu** and co-supervised by **Prof. Qiang Wu**. I am expected to graduate before July 2, 2026. I have published in leading venues such as ECAI, ACL, EMNLP, ICLR, ACM Multimedia, and ADMA, as well as journals including DMKD, TOIS, and Neurocomputing. I also serve as a regular reviewer for journals such as IEEE TKDE, IEEE TMM, Neural Networks, and Frontiers in AI. In addition, I am the Co-Founder of **[Achieva AI](https://www.achieva-ai.com)**, the first AI agent for international student education consulting in Australia. <a href='https://scholar.google.com/citations?user=yQZTu58AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
+I’m Yunxiao Shi (石韵虓xiāo), born in 1998 in Wuhan, China, and currently a fourth-year PhD candidate at the **University of Technology Sydney**, supervised by **Prof. Min Xu** and co-supervised by **Prof. Qiang Wu**. I am expected to graduate before July 2, 2026. I have published in leading venues such as ECAI, ACL, EMNLP, ICLR, ACM Multimedia, and ADMA, as well as journals including DMKD, TOIS, and Neurocomputing. I also serve as a regular reviewer for journals such as IEEE TKDE, IEEE TMM, Neural Networks, and Frontiers in AI. In addition, I am the Co-Founder of **[Achieva AI](https://www.achieva-ai.com)**, the first AI agent for international student education consulting in Australia.
+<!-- <a href='https://scholar.google.com/citations?user=yQZTu58AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> -->
 
 <span style="color:#A0522D; font-family:'Georgia', serif; font-weight:500;">
 I am actively exploring research problems and potential collaborations in Personalized LLMs, Recommender Systems, Retrieval-Augmented Generation (RAG), AI Agents, and AI for Education. I am also currently seeking postdoctoral research opportunities. If you are interested, feel free to contact me at Yunxiao@student.uts.edu.au.
@@ -28,8 +29,8 @@ I am actively exploring research problems and potential collaborations in Person
 <span class='anchor' id='-Education'></span>
 
 # 🎓 Education
-- *2022.07 – Present*, </a> University of Technology Sydney, PhD Candidate in Information System
-- *2021.09 – 2022.05*, </a> University of New South Wales, Coursework Master of Information Technology (*Withdrew for Research*)
+- *2022.07 – Present*, University of Technology Sydney, PhD Candidate in Information System
+- *2021.09 – 2022.05*, University of New South Wales, Coursework Master of Information Technology (*Withdrew for Research*)
 
 
 # 🧾 Academic Publications
