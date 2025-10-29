@@ -38,18 +38,14 @@ I am actively exploring research problems and potential collaborations in Person
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]]() <br>
 **Yunxiao Shi**, Shuo Yang, Yixin Su, Rui Zhang, Min Xu
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMKD Journal</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *MEGG: Replay via Maximally Extreme GG-score in Incremental Learning for Deep Recommendation Models* [[Preview]](https://arxiv.org/abs/2509.07319) <br>
 **Yunxiao Shi**, Shuo Yang, Haimin Zhang, Li Wang, Yongze Wang, Qiang Wu, Min Xu
-
 </div></div>
 
 
@@ -57,29 +53,20 @@ I am actively exploring research problems and potential collaborations in Person
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]]() <br>
 **Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
-
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM-MMGR 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine* [[Preview]](https://dl.acm.org/doi/10.1145/3689091.3690087) <br>
 **Yunxiao Shi**, Min Xu, Haimin Zhang, Xing Zi, Qiang Xu
-
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems* [[Preview]](https://ebooks.iospress.nl/doi/10.3233/FAIA240748) <br>
 **Yunxiao Shi**, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Xu, Min Xu 
-
-
 </div></div>
 
 
@@ -87,11 +74,8 @@ I am actively exploring research problems and potential collaborations in Person
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *Distilling Large Language Models into Small for Sequential Recommendation* [[Preview]](https://openreview.net/forum?id=G4wARwjF8M) <br>
 Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, Wenfang Lin, Yongfeng Zhang
-
-
 </div></div>
 
 
@@ -99,10 +83,8 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *AgentMatch: A Benchmark for Query-to-Agent Recommendation* [[Preview]]() <br>
 **Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Yunfeng Wan, Zhuo Cao, Dimitris N. Metaxas, Min Xu
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div></div></div>
@@ -140,6 +122,7 @@ Xing Zi, Jinghao Xiao, **Yunxiao Shi**, Xian Tao, Jun Li, Ali Braytee, Mukesh Pr
 Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Thiyagarajan, Mukesh Prasad
 </div></div>
 
+
 <span class='anchor' id='-Scholarship'></span>
 
 # 🏅 Scholarship
@@ -149,8 +132,6 @@ Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Th
 - UTS School of Electrical and Data Engineering Research Support Fund, *2024*
 
 <span class='anchor' id='-Teaching Experience'></span>
-
-
 
 # 🎓 Teaching Experience
 
