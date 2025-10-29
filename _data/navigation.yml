@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/https://ancientshi.github.io/#-About Me"
+    url: "/-About Me"
 
   - title: "Education"
-    url: "/https://ancientshi.github.io/#-Education"
+    url: "/-Education"
 
   - title: "Academic Publications"
-    url: "/https://ancientshi.github.io/#-Academic Publications"
+    url: "/-Academic Publications"
 
   - title: "Scholarship"
-    url: "/https://ancientshi.github.io/#-Scholarship"
+    url: "/-Scholarship"
 
   - title: "Teaching Experience"
-    url: "/https://ancientshi.github.io/#-Teaching Experience"
+    url: "/-Teaching Experience"
