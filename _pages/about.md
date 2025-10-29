@@ -39,7 +39,7 @@ I am actively exploring research problems and potential collaborations in Person
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]]() </br>
+- *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]]() <br>
 **Yunxiao Shi**, Shuo Yang, Yixin Su, Rui Zhang, Min Xu
 
 </div></div>
@@ -47,7 +47,7 @@ I am actively exploring research problems and potential collaborations in Person
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMKD Journal</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *MEGG: Replay via Maximally Extreme GG-score in Incremental Learning for Deep Recommendation Models* [[Preview]](https://arxiv.org/abs/2509.07319) </br>
+- *MEGG: Replay via Maximally Extreme GG-score in Incremental Learning for Deep Recommendation Models* [[Preview]](https://arxiv.org/abs/2509.07319) <br>
 **Yunxiao Shi**, Shuo Yang, Haimin Zhang, Li Wang, Yongze Wang, Qiang Wu, Min Xu
 
 </div></div>
@@ -58,7 +58,7 @@ I am actively exploring research problems and potential collaborations in Person
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]]() </br>
+- *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]]() <br>
 **Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
 
 
@@ -67,7 +67,7 @@ I am actively exploring research problems and potential collaborations in Person
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM-MMGR 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine* [[Preview]](https://dl.acm.org/doi/10.1145/3689091.3690087) </br>
+- *A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine* [[Preview]](https://dl.acm.org/doi/10.1145/3689091.3690087) <br>
 **Yunxiao Shi**, Min Xu, Haimin Zhang, Xing Zi, Qiang Xu
 
 
@@ -76,7 +76,7 @@ I am actively exploring research problems and potential collaborations in Person
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems* [[Preview]](https://ebooks.iospress.nl/doi/10.3233/FAIA240748) </br>
+- *Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems* [[Preview]](https://ebooks.iospress.nl/doi/10.3233/FAIA240748) <br>
 **Yunxiao Shi**, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Xu, Min Xu 
 
 
@@ -88,7 +88,7 @@ I am actively exploring research problems and potential collaborations in Person
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *Distilling Large Language Models into Small for Sequential Recommendation* [[Preview]](https://openreview.net/forum?id=G4wARwjF8M) </br>
+- *Distilling Large Language Models into Small for Sequential Recommendation* [[Preview]](https://openreview.net/forum?id=G4wARwjF8M) <br>
 Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, Wenfang Lin, Yongfeng Zhang
 
 
@@ -100,7 +100,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *AgentMatch: A Benchmark for Query-to-Agent Recommendation* [[Preview]]() </br>
+- *AgentMatch: A Benchmark for Query-to-Agent Recommendation* [[Preview]]() <br>
 **Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Yunfeng Wan, Zhuo Cao, Dimitris N. Metaxas, Min Xu
 
 </div></div>
@@ -108,10 +108,13 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence* [[Preview]](https://aclanthology.org/2025.findings-acl.300/) </br>
+- *PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence* [[Preview]](https://aclanthology.org/2025.findings-acl.300/) <br>
 **Yunxiao Shi**, Wujiang Xu, Zeqi Zhang, Xing Zi, Qiang Xu, Min Xu
 
-- *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) </br> Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='https://arxiv.org/html/2502.14662v1/x2.png' width="100%'></div></div>
+<div class='paper-box-text' markdown="1">
+
+- *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) <br> Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
 
 
 </div></div>
@@ -122,7 +125,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) </br>
+- *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) <br>
 **Yunxiao Shi**, Wujiang Xu, Haimin Zhang, Qiang Wu, Min Xu
 
 </div></div>
@@ -133,7 +136,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering* [[Preview]](https://arxiv.org/abs/2508.07918) </br>
+- *RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering* [[Preview]](https://arxiv.org/abs/2508.07918) <br>
 Xing Zi, Jinghao Xiao, **Yunxiao Shi**, Xian Tao, Jun Li, Ali Braytee, Mukesh Prasad
 
 
@@ -142,7 +145,7 @@ Xing Zi, Jinghao Xiao, **Yunxiao Shi**, Xian Tao, Jun Li, Ali Braytee, Mukesh Pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *BDC Dataset: A Comprehensive Dataset for Automated Build Damage Classification* [[Preview]](https://openreview.net/forum?id=fr8Atucyym) </br>
+- *BDC Dataset: A Comprehensive Dataset for Automated Build Damage Classification* [[Preview]](https://openreview.net/forum?id=fr8Atucyym) <br>
 Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Thiyagarajan, Mukesh Prasad
 
 
