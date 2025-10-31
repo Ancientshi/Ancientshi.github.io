@@ -40,7 +40,7 @@ I am actively exploring research problems and potential collaborations in Person
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ACC-SGD-IE.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]]() <br>
+- *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]](https://arxiv.org/abs/2510.26185) <br>
 **Yunxiao Shi**, Shuo Yang, Yixin Su, Rui Zhang, Min Xu
 </div></div>
 
