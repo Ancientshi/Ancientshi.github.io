@@ -55,7 +55,7 @@ I am actively exploring research problems and potential collaborations in Person
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/OCG.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]]() <br>
+- *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]](https://aclanthology.org/2025.emnlp-main.667/) <br>
 **Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
 </div></div>
 
