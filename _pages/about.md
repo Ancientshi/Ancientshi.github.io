@@ -117,7 +117,7 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 ## 📈 Traditional Recommender System
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/KarSein.png'  width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS Journal</div><img src='images/KarSein.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) <br>
 **Yunxiao Shi**, Wujiang Xu, Haimin Zhang, Qiang Wu, Min Xu
