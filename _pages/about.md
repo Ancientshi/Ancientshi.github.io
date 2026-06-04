@@ -28,6 +28,19 @@ I am actively exploring research problems and potential collaborations in Person
 
 <span class='anchor' id='-Education'></span>
 
+<span class='anchor' id='-News'></span>
+
+# 📰 News
+* *2026.06*, Invited to give a research talk at the School of Computer Science and Engineering, Nanjing University of Science and Technology.
+  Talk title: *Large Language Model Agent Systems for Question-Answering Style Information Retrieval and Recommendation*.
+
+* *2026.05*, Invited to attend the Nanhu Young Scholars Talent Forum at South-Central Minzu University, and gave a research talk and academic exchange at the College of Computer Science.
+
+* *2026.05*, One paper was accepted by ICML 2026: *AgentSelect: A Benchmark for Narrative Query-to-Agent Recommendation*.
+
+* *2026.05*, Achieva AI was selected as a finalist for The PIEoneer Awards 2026 in the category of *Digital Innovation of the Year – Student Recruitment*.
+
+
 # 🎓 Education
 - *2022.07 – Present*, University of Technology Sydney, PhD Candidate in Information System
 - *2021.09 – 2022.05*, University of New South Wales, Coursework Master of Information Technology (*Withdrew for Research*)
@@ -83,10 +96,11 @@ Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, 
 
 ## 🤖 Agent and Recommendation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WWW.png'  width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/AgentSelect.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *AgentMatch: A Benchmark for Query-to-Agent Recommendation* [[Preview]]() <br>
-**Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Yunfeng Wan, Zhuo Cao, Dimitris N. Metaxas, Min Xu
+- *AgentSelect: A Benchmark for Narrative Query-to-Agent Recommendation* [[Preview]]() <br>
+**Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Ling Yang, Yunfeng Wan, Zhuo Cao, Xing Zi, Dimitris N. Metaxas, Min Xu
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/PersonaX.png'  width="100%"></div></div>
