@@ -19,11 +19,11 @@ redirect_from:
 
 
 
-I’m Yunxiao Shi (石韵虓, xiāo), born in 1998 in Wuhan, China. I will join the School of Computing, Australian National University as a Research Fellow, working with Prof. Ahad N. Zehmakan and Prof. Jing Jiang. I am recently completing my PhD degree at the University of Technology Sydney, supervised by Prof. Min Xu and co-supervised by Prof. Qiang Wu. I have published in leading venues such as ICML, ECAI, ACL, EMNLP, ICLR, ACM Multimedia, and ADMA, as well as journals including DMKD, TOIS, and Neurocomputing. I also serve as reviewer for NIPS, IEEE TKDE, IEEE TMM, Neural Networks, and Frontiers in AI. In addition, I am the Co-Founder of **[Achieva AI](https://www.achieva-ai.com)**, the first AI agent for international student education consulting in Australia.
+I’m Yunxiao Shi (石韵虓, xiāo). Currently I am a Research Fellow in the School of Computing, Australian National University, working with Prof. Ahad N. Zehmakan and Prof. Jing Jiang. I am recently completing my PhD degree at the University of Technology Sydney, supervised by Prof. Min Xu and co-supervised by Prof. Qiang Wu. I have published in leading venues such as ICML, ECAI, ACL, EMNLP, ICLR, ACM Multimedia, and ADMA, as well as journals including DMKD, TOIS, EAAI and Neurocomputing. I also serve as reviewer for NIPS, IEEE TKDE, IEEE TMM, Neural Networks, and Frontiers in AI. In addition, I am the Co-Founder of **[Achieva AI](https://www.achieva-ai.com)**, ultilizing AI agent to do international student educational consulting in Australia.
 <!-- <a href='https://scholar.google.com/citations?user=yQZTu58AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> -->
 
 <span style="color:#A0522D; font-family:'Georgia', serif; font-weight:500;">
-I am actively exploring research problems and potential collaborations in Personalized LLMs, Recommender Systems, Retrieval-Augmented Generation (RAG), AI Agents, and AI for Education.
+I am actively exploring research problems and potential collaborations in LLMs, Agents, Recommender Systems and Information Retrieval Systems.
 </span>
 
 
@@ -33,6 +33,8 @@ I am actively exploring research problems and potential collaborations in Person
 <span class='anchor' id='-News'></span>
 
 # 📰 News
+* *2026.09* — Our paper, “Vision-Language Model Data Sampling via Coverage-Centric Strategy,” by Xing Zi, *Yunxiao Shi*, et al., has been accepted by Engineering Applications of Artificial Intelligence. Congratulations to Xing! This collaboration started when we were both first-year PhD students.
+
 * *2026.06*, Invited to give a research talk at the School of Computer Science and Engineering, Nanjing University of Science and Technology.
   Talk title: *Large Language Model Agent Systems for Question-Answering Style Information Retrieval and Recommendation*.
 
@@ -44,85 +46,116 @@ I am actively exploring research problems and potential collaborations in Person
 
 
 # 🎓 Education
-- *2022.07 – Present*, University of Technology Sydney, PhD Candidate in Information System
+- *2022.07 – 2026.07*, University of Technology Sydney, PhD in Information System
 - *2021.09 – 2022.05*, University of New South Wales, Coursework Master of Information Technology (*Withdrew for Research*)
 
 <span class='anchor' id='-Academic_Publications'></span>
 
+
 # 🧾 Academic Publications
 
-## 📊 Data Attribution
+## 🔍 Explainable Machine Learning and Recommender Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ACC-SGD-IE.png'  width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ACC-SGD-IE.png' width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
-- *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]](https://arxiv.org/abs/2510.26185) <br>
+
+* *Accumulative SGD Influence Estimator for Data Attribution* [[Preview]](https://arxiv.org/abs/2510.26185) <br>
+
 **Yunxiao Shi**, Shuo Yang, Yixin Su, Rui Zhang, Min Xu
+
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMKD Journal</div><img src='images/MEGG.png'  width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMKD Journal</div><img src='images/MEGG.png' width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
-- *MEGG: Replay via Maximally Extreme GG-score in Incremental Learning for Deep Recommendation Models* [[Preview]](https://arxiv.org/abs/2509.07319) <br>
+
+* *MEGG: Replay via Maximally Extreme GG-score in Incremental Learning for Deep Recommendation Models* [[Preview]](https://arxiv.org/abs/2509.07319) <br>
+
 **Yunxiao Shi**, Shuo Yang, Haimin Zhang, Li Wang, Yongze Wang, Qiang Wu, Min Xu
+
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS Journal</div><img src='images/KarSein.png' width="100%"></div></div>
 
-## 📚 RAG, Information Retrieval and Question Answering
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/OCG.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]](https://aclanthology.org/2025.emnlp-main.667/) <br>
-**Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM-MMGR 2024</div><img src='https://arxiv.org/html/2409.00636v1/x1.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine* [[Preview]](https://dl.acm.org/doi/10.1145/3689091.3690087) <br>
-**Yunxiao Shi**, Min Xu, Haimin Zhang, Xing Zi, Qiang Xu
-</div></div>
+* *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems* [[Preview]](https://ebooks.iospress.nl/doi/10.3233/FAIA240748) <br>
-**Yunxiao Shi**, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Xu, Min Xu 
-</div></div>
-
-
-## 💡 LLM for Recommendation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://arxiv.org/html/2405.17890v4/x1.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *Distilling Large Language Models into Small for Sequential Recommendation* [[Preview]](https://openreview.net/forum?id=G4wARwjF8M) <br>
-Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, Wenfang Lin, Yongfeng Zhang
-</div></div>
-
-
-## 🤖 Agent and Recommendation
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/AgentSelect.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *AgentSelect: A Benchmark for Narrative Query-to-Agent Recommendation* [[Preview]]() <br>
-**Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Ling Yang, Yunfeng Wan, Zhuo Cao, Xing Zi, Dimitris N. Metaxas, Min Xu
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/PersonaX.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence* [[Preview]](https://aclanthology.org/2025.findings-acl.300/) <br>
-**Yunxiao Shi**, Wujiang Xu, Zeqi Zhang, Xing Zi, Qiang Xu, Min Xu
-</div></div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/InstructAgent.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) <br> Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
-</div></div>
-
-## 📈 Traditional Recommender System
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS Journal</div><img src='images/KarSein.png'  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction* [[Preview]](https://arxiv.org/abs/2408.08713) <br>
 **Yunxiao Shi**, Wujiang Xu, Haimin Zhang, Qiang Wu, Min Xu
+
+</div></div>
+
+## 🤖 LLM Agents for Information Retrieval and Recommendation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/AgentSelect.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *AgentSelect: A Benchmark for Narrative Query-to-Agent Recommendation* [[Preview]]() <br>
+
+**Yunxiao Shi**, Wujiang Xu, Tingwei Chen, Haoning Shang, Ling Yang, Yunfeng Wan, Zhuo Cao, Xing Zi, Dimitris N. Metaxas, Min Xu
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/OCG.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *Answering Narrative-Driven Recommendation Queries via Retrieve-Rank Paradigm and the OCG-Agent* [[Preview]](https://aclanthology.org/2025.emnlp-main.667/) <br>
+
+**Yunxiao Shi**, Haoning Shang, Xing Zi, Wujiang Xu, Yue Feng, Min Xu
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/PersonaX.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence* [[Preview]](https://aclanthology.org/2025.findings-acl.300/) <br>
+
+**Yunxiao Shi**, Wujiang Xu, Zeqi Zhang, Xing Zi, Qiang Xu, Min Xu
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/InstructAgent.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *InstructAgent: Building User Controllable Recommender via LLM Agent* [[Preview]](https://aclanthology.org/2025.findings-acl.928/) <br>
+
+Wujiang Xu, **Yunxiao Shi**, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://arxiv.org/html/2405.17890v4/x1.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *Distilling Large Language Models into Small for Sequential Recommendation* [[Preview]](https://openreview.net/forum?id=G4wARwjF8M) <br>
+
+Wujiang Xu, Qitian Wu, Zujie Liang, Jiaojiao Han, Xuying Ning, **Yunxiao Shi**, Wenfang Lin, Yongfeng Zhang
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM-MMGR 2024</div><img src='https://arxiv.org/html/2409.00636v1/x1.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine* [[Preview]](https://dl.acm.org/doi/10.1145/3689091.3690087) <br>
+
+**Yunxiao Shi**, Min Xu, Haimin Zhang, Xing Zi, Qiang Xu
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI.png' width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+* *Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems* [[Preview]](https://ebooks.iospress.nl/doi/10.3233/FAIA240748) <br>
+
+**Yunxiao Shi**, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Xu, Min Xu
+
 </div></div>
 
 
@@ -140,16 +173,7 @@ Xing Zi, Jinghao Xiao, **Yunxiao Shi**, Xian Tao, Jun Li, Ali Braytee, Mukesh Pr
 Xing Zi, **Yunxiao Shi**, Taoyuan Zhu, Kairui Jin, Xian Tao, Jun Li, Karthick Thiyagarajan, Mukesh Prasad
 </div></div>
 
-
 <span class='anchor' id='-Scholarship'></span>
-
-# 🏅 Scholarship
-
-- UTS–CSC Doctor of Philosophy (PhD) Scholarships Program, *2023.05 – 2026.07*
-- Vice-Chancellor's Postgraduate Research Student Conference Fund, *2024*
-- UTS School of Electrical and Data Engineering Research Support Fund, *2024*
-
-<span class='anchor' id='-Teaching_Experience'></span>
 
 # 🎓 Teaching Experience
 
