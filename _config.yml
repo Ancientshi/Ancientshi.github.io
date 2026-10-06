@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunxiao Shi"
   avatar           : "images/me.jpg"
-  bio              : "PhD Candidate at University of Technology Sydney. My research interests include Recommender System, Agent, RAG."
+  bio              : "Research Fellow at the Australian National University. My research interests include Recommender Systems, Agents, and RAG."
   location         : "Australia Sydney"
   employer         : 
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin.com/in/yunxiao-shi-5391091b8"
+  linkedin         : "yunxiao-shi-5391091b8"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0002-1516-015X"
   pinterest        :
